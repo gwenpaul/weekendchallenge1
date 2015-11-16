@@ -1,0 +1,16 @@
+form {
+	width: 150px;
+	display: inline;
+}
+
+form input {
+	display: block;
+	width: inherit;
+	padding: 5px;
+	margin: 5px;
+}
+
+section {
+	display: inline;
+	width: 400px;
+}
